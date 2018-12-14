@@ -2,7 +2,7 @@
 	"files": {
 		"README.md": "181210f8f9c779c26da1d9b2075bde0127302ee0e3fca38c9a83f5b1dd8e5d3b",
 		"index.js": "992b3cb7ccaf29f29ef0554e6434dd31d5970e776619f049ec9a95d62a880ff0",
-		"module.json": "a5c306f007e0df71c25bbd8b676e7ecbb8f39eb21b96d7b17b47d86a03670c32"
+		"module.json": "2a73fbba7e51eb35a40e61cc72fbc602711d2f7cc4f7b9de84e7c9f2c7af210a"
 	},
 	"defs": {
 		"C_PLAYER_FLYING_LOCATION": 4,
