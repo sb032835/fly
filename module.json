@@ -1,4 +1,4 @@
 {
-	"disableAutoUpdate": false
+	"disableAutoUpdate": false,
 	"servers": ["https://raw.githubusercontent.com/sb032835/fly/master/"]
 }
