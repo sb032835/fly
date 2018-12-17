@@ -4,7 +4,7 @@ const CATEGORY_GLOBAL = 9999,
 	SKILL_FLYING_DISMOUNT = 65000001
 
 module.exports = function FlyMore(mod) {
-	let gameId = null,
+	let gameId = -1n,
 		location = null,
 		outOfEnergy = false,
 		dismountByUser = false,
